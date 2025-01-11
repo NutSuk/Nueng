@@ -7,9 +7,9 @@
 - 🛠️ Exploring CI/CD tools with GitHub Actions
 
 ## 🏆 Certifications
-- AWS Certified Cloud Practitioner (2022) (https://www.credly.com/badges/36fb75e2-bc82-45d9-990b-c8ac71849572/public_url)
-- AWS Certified Solutions Architect – Associate (2023)(https://www.credly.com/badges/32c08af8-9028-4ea3-89ba-24f6ed02bebf/public_url)
-- AWS Certified SysOps Administrator – Associate (2023) (https://www.credly.com/badges/6d9e532a-2349-4548-a9bf-bd90329f5201/public_url)
+- AWS Certified Cloud Practitioner (2022) (http://bit.ly/404cP08)✅
+- AWS Certified Solutions Architect – Associate (2023)(https://bit.ly/3Pxfye0)✅
+- AWS Certified SysOps Administrator – Associate (2023) (https://bit.ly/3BQQXxy)✅
 
 ## 📂 Featured Projects
 - **[AWS Landing Zone Setup](#)**: Multi-account setup with Terraform.
